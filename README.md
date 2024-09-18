@@ -1,1 +1,1 @@
-# InternLM-Study
+书生大模型闯关练习
